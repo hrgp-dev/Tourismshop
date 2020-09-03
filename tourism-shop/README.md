@@ -9,7 +9,7 @@ Created By :  Divya Jyoti Sen
 
 ## Breif summary of the Project
 
-Prime-Odyssey is an e-commerce application to buy and sell travel and tourism packages in all over the world. Users can Signup and sell their tour package buy uploading them, buyers can browse throught the products and buy them using paypal checkout option
+Prime-Odyssey is an e-commerce application to buy and sell travel and tourism packages in all over the world. Users can Signup and sell their tour package buy uploading them, buyers can browse  the products and buy them using paypal checkout option
 
 
 ## Contents of the folder **mazesolver?**
